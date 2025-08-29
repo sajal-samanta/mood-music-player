@@ -10,4 +10,7 @@ A simple web application that plays music and changes the theme based on the use
 - Volume toggle
 - Mood autocomplete + pre-built mood previews
 
+  There will be future improvements.
+  
+
   #Tech Stack: HTML,CSS,Javascript
